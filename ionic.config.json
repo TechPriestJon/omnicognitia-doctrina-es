@@ -1,0 +1,7 @@
+{
+  "name": "omnicognitia-doctrina-es",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
